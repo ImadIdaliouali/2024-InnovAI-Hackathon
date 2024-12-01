@@ -19,6 +19,8 @@ Burnout Predictor aims to address this problem by leveraging smartwatch data and
 - Trend analysis and visualization of user data over time
 - Personalized recommendations for improving well-being and productivity
 
+![Burnout Predictor Preview](public/burnout-predictor-preview.png)
+
 ## Instructions
 
 To run the Burnout Predictor project locally, follow these steps:
@@ -46,3 +48,5 @@ To run the Burnout Predictor project locally, follow these steps:
 
 - Next.js
 - Tailwind CSS
+
+##
